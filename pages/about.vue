@@ -6,7 +6,7 @@
     <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 md:p-8 mb-8">
       <div class="md:flex items-start">
         <div class="md:w-1/3 mb-6 md:mb-0 md:mr-8">
-          <img src="/images/profile.jpg" alt="Profile" class="w-full rounded-lg" onerror="this.src='https://via.placeholder.com/300'">
+          <img src="/images/profile.svg" alt="Profile" class="w-full rounded-lg">
         </div>
         <div class="md:w-2/3">
           <h2 class="text-2xl font-bold mb-4 text-gray-800 dark:text-white">个人简介</h2>

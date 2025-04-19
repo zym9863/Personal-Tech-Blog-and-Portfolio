@@ -1,0 +1,8 @@
+This directory will store images for the blog and portfolio.
+
+Recommended image structure:
+- /images/blog/ - For blog post images
+- /images/projects/ - For project screenshots and images
+- /images/profile.jpg - For your profile photo
+- /images/avatar.jpg - For your avatar
+- /images/logo.svg - For your site logo

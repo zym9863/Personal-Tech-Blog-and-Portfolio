@@ -25,7 +25,7 @@
       <!-- Author Info -->
       <div class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
         <div class="flex items-center">
-          <img src="/images/avatar.jpg" alt="Author" class="w-16 h-16 rounded-full mr-4" onerror="this.src='https://via.placeholder.com/64'">
+          <img src="/images/avatar.svg" alt="Author" class="w-16 h-16 rounded-full mr-4">
           <div>
             <h3 class="text-lg font-semibold text-gray-800 dark:text-white">作者</h3>
             <p class="text-gray-600 dark:text-gray-300">技术博主，分享前端开发、Web技术和软件工程的见解与经验。</p>
