@@ -1,0 +1,54 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+/dist
+/.nuxt
+/.output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Build output
+out/
+public/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Nuxt generate output
+/dist
+/.nuxt
+/.output
+
+# Static files
+/static
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
